@@ -1,5 +1,7 @@
 __pycache__/
 *.py[cod]
 restaurant.db
+*.csv
+*.lnk
 myenv/
 .DS_Store
